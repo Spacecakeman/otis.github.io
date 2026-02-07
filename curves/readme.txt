@@ -1,1 +1,0 @@
-blob animation not working
